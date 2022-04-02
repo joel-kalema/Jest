@@ -1,0 +1,23 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joel-kalema/Jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joel-kalema/Jest/issues"
+  },
+  "homepage": "https://github.com/joel-kalema/Jest#readme",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
