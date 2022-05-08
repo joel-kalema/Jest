@@ -9,7 +9,7 @@
 
 - Major languages
 - Frameworks
-- Technologies used
+- Technologies
 
 ## Live Demo (if available)
 
